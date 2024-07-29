@@ -1,6 +1,9 @@
 ## **Elbette, README.md dosyası için formatlanmış bir versiyonunu aşağıda bulabilirsiniz:**
 
 ### **DataSyncManager**
+<p align="center">
+  <img src="https://github.com/Mertalkann/SheetDBManager/blob/main/SheetDBManager.png" alt="DataSyncManager">
+</p>
 
 **DataSyncManager** uygulaması, Google Sheets ve SQL veritabanı arasında veri senkronizasyonu sağlayan, kullanıcı dostu bir web uygulamasıdır. Kullanıcılar, Google hesapları ile giriş yaparak veri ekleme, güncelleme, silme ve sorgulama işlemlerini kolayca gerçekleştirebilirler.
 
@@ -55,7 +58,5 @@
 
 **Not:** Bu README.md dosyası, projenizin genel bir bakışını sunar. Daha detaylı bilgi için kodları inceleyebilirsiniz.
 
-**GitHub Deposu:** [https://github.com/kullaniciadi/proje-adi.git](https://github.com/kullaniciadi/proje-adi.git)
-
-**[Projenizin ekran görüntülerini veya GIF'lerini buraya ekleyebilirsiniz]**
+**GitHub Deposu:** [https://github.com/Mertalkann/SheetDBManager)
 
