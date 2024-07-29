@@ -1,10 +1,10 @@
 
-### **DataSyncManager**
+### **SyncPortal**
 <p align="center">
   <img src="https://github.com/Mertalkann/SheetDBManager/blob/main/SheetDBManager.png" alt="DataSyncManager">
 </p>
 
-**DataSyncManager** uygulaması, Google Sheets ve SQL veritabanı arasında veri senkronizasyonu sağlayan, kullanıcı dostu bir web uygulamasıdır. Kullanıcılar, Google hesapları ile giriş yaparak veri ekleme, güncelleme, silme ve sorgulama işlemlerini kolayca gerçekleştirebilirler.
+**SyncPortal** uygulaması, Google Sheets ve SQL veritabanı arasında veri senkronizasyonu sağlayan, kullanıcı dostu bir web uygulamasıdır. Kullanıcılar, Google hesapları ile giriş yaparak veri ekleme, güncelleme, silme ve sorgulama işlemlerini kolayca gerçekleştirebilirler.
 
 #### **Özellikler**
 
@@ -32,7 +32,8 @@
    * Visual Studio 2019 veya üzeri
    * .NET Framework 4.7.2 veya üzeri
    * Google Sheets API kimlik bilgileri JSON dosyası
-   * SQL Server veya desteklenen başka bir veritabanı
+   * SQL Server veya desteklenen başka bir veritabanı,
+     
 * **Adımlar:**
    * Projeyi GitHub'dan klonlayın.
    * Visual Studio'da çözümü açın.
@@ -72,9 +73,9 @@ Google Sheets API'yi kullanabilmek için gerekli NuGet paketlerini yükleyin:
 Tools > NuGet Package Manager > Package Manager Console yolunu izleyin.
 Aşağıdaki komutları kullanarak gerekli paketleri yükleyin:
 
-Install-Package Google.Apis.Sheets.v4
-Install-Package Google.Apis.Auth
-Install-Package Newtonsoft.Json
+* Install-Package Google.Apis.Sheets.v4
+* Install-Package Google.Apis.Auth
+* Install-Package Newtonsoft.Json
 
 #### **Kullanım**
 
@@ -84,13 +85,7 @@ Install-Package Newtonsoft.Json
    * **Güncelleme:** Kayıt ID'sini girerek mevcut bir kaydı güncelleyin.
    * **Silme:** Kayıt ID'sini girerek bir kaydı silin.
    * **Sorgulama:** Kayıt ID'sine göre bir kayıt alın.
-
-#### **Ek Bilgiler**
-
-* **Google Sheets API:** Google Sheets API'nin sunduğu tüm özelliklerden yararlanılabilir.
-* **SQL Veritabanı:** SQL sorguları kullanarak karmaşık veri işlemleri yapılabilir.
-* **Güvenlik:** Kullanıcıların Google hesapları ile giriş yapması sayesinde güvenlik sağlanır.
-
+  
 **Not:** Bu README.md dosyası, projenizin genel bir bakışını sunar. Daha detaylı bilgi için kodları inceleyebilirsiniz.
 
 **GitHub Deposu:** [https://github.com/Mertalkann/SheetDBManager)
