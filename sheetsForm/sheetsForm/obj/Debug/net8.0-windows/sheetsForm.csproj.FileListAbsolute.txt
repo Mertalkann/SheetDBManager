@@ -1,0 +1,80 @@
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.exe
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.deps.json
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.runtimeconfig.json
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.pdb
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.Sheets.v4.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\System.Management.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.AssemblyReference.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.Form1.resources
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.GenerateResource.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.GeneratedMSBuildEditorConfig.editorconfig
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.AssemblyInfoInputs.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.AssemblyInfo.cs
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.CoreCompileInputs.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.Up2Date
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\refint\sheetsForm.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.pdb
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.genruntimeconfig.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\ref\sheetsForm.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.AssemblyReference.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.Form1.resources
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.GenerateResource.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.GeneratedMSBuildEditorConfig.editorconfig
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.AssemblyInfoInputs.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.AssemblyInfo.cs
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.CoreCompileInputs.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\refint\sheetsForm.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.pdb
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.exe
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.deps.json
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.runtimeconfig.json
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\sheetsForm.pdb
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Google.Apis.Sheets.v4.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\System.Management.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.csproj.Up2Date
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\sheetsForm.genruntimeconfig.cache
+\\ArrNfs\belgeler$\stajyer.it\Desktop\Stajyer Mertcan\sheetsForm\sheetsForm\obj\Debug\net8.0-windows\ref\sheetsForm.dll
