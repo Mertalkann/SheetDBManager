@@ -4,13 +4,11 @@
   <img src="https://github.com/Mertalkann/SheetDBManager/blob/main/SheetDBManager.png" alt="DataSyncManager">
 </p>
 
-**SyncPortal** uygulaması, Google Sheets ve SQL veritabanı arasında veri senkronizasyonu sağlayan, kullanıcı dostu bir web uygulamasıdır. Kullanıcılar, Google hesapları ile giriş yaparak veri ekleme, güncelleme, silme ve sorgulama işlemlerini kolayca gerçekleştirebilirler.
+**SyncPortal** Bu uygulama, kullanıcıların Google Sheets ve yerel bir veritabanı üzerinde CRUD işlemlerini kolaylıkla gerçekleştirebilmelerini sağlayan, entegre bir portal çözümü sunmaktadır.
 
-#### **Özellikler**
-* **Google Hesabı ile Giriş:** Güvenli ve kolay erişim için Google kimlik doğrulaması.
-* **CRUD İşlemleri:** Google Sheets ve SQL veritabanında veri ekleme, güncelleme, silme ve okuma işlemleri.
-* **Google Sheets Entegrasyonu:** Google Sheets API kullanılarak verilerle etkileşim.
-* **SQL Veritabanı Entegrasyonu:** SQL sorguları ile veritabanı işlemleri.
+#### **Projenin Çözdüğü Problemler:** 
+* Veriye Erişimin Merkezi Bir Noktadan Yönetilmesi: Kullanıcılar, tek bir arayüz üzerinden hem bulut tabanlı (Google Sheets) hem de yerel veritabanına erişerek veri yönetimi işlemlerini gerçekleştirebilmektedir.
+* Dış Kullanıcıların Sistemle Etkileşimi: Proje, dış kullanıcıların da sistemin iç işleyişine müdahale etmeden, güvenli bir şekilde veri giriş, güncelleme, silme ve sorgulama işlemlerini yapabilmelerine olanak tanımaktadır.
 
 #### **Çalışma Prensibi**
 
@@ -30,10 +28,11 @@
 #### **Kurulum Adımları**
 
 1. **Projeyi GitHub'dan klonlayın**
-   ```sh
+ ```sh
      git clone https://github.com/Mertalkann/SheetDBManager
-2. **Visual Studio'da klonladığınız Solutionı açın**
-3. **NuGet Paketlerinin Yüklenmesi**
+```
+3. **Visual Studio'da klonladığınız Solutionı açın**
+4. **NuGet Paketlerinin Yüklenmesi**
    * Paket Yöneticisi Konsolu'nda aşağıdaki komutları çalıştırın:
 ```sh
   Install-Package Google.Apis.Sheets.v4
@@ -70,7 +69,19 @@
    * Projenizin kök dizinindeki appsettings.json dosyasını bir metin editörü ile açın.
    * Google Sheets API Kimlik Bilgileri: İndirdiğiniz credentials.json dosyasındaki client_id ve client_secret değerlerini appsettings.json dosyasındaki ilgili bölümlere yapıştırın.
    * Veritabanı Bağlantı Dizesi: Kendi veritabanınız için geçerli bağlantı dizesini ConnectionStrings bölümüne ekleyin. Örneğin:
-           ```sh "ConnectionStrings": {"DefaultConnection": "Server=your_server;Database=your_database;User Id=your_user;Password=your_password;"} ```
+ ```sh
+ {
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=yourServerName;Database=YourDB;User Id=UserName;Password=password;"
+    },
+    "GoogleSheets": {
+      "ApplicationName": "YourAplicationName", 
+      "SpreadsheetId": "SheetTableId", //https://docs.google.com/spreadsheets/d/YourSpreadsheetId
+      "Sheet": "SheetTableName",
+      "CredentialsPath": "credentials.json"
+    }
+  }
+```
 6. **Projenin Çalıştırılması: F5 tuşuna basarak veya başlat düğmesine tıklayarak projeyi çalıştırın.** 
 
 
