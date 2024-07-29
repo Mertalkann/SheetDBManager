@@ -28,7 +28,7 @@
 #### **Kurulum Adımları**
 
 1. **Projeyi GitHub'dan klonlayın**
- ```sh
+```sh
      git clone https://github.com/Mertalkann/SheetDBManager
 ```
 3. **Visual Studio'da klonladığınız Solutionı açın**
@@ -46,30 +46,32 @@
     * Google Cloud Console adresine gidin ve Google hesabınızla giriş yapın.
     * Sağ üst köşedeki proje seçim menüsüne tıklayın ve New Project butonuna tıklayın.
     * Projenize bir ad verin ve uygun bir yer belirleyin. Ardından Create butonuna tıklayın.
+      
   2.**Google Sheets API'yi Etkinleştirme**
     * Sol menüden APIs & Services seçeneğine tıklayın ve ardından Library seçeneğine gidin.
     * Arama çubuğuna Google Sheets API yazın ve çıkan sonuca tıklayın.
     * Enable butonuna tıklayarak API'yi etkinleştirin.
-  3.**OAuth 2.0 Yetkilendirmesi İçin İstemci Kimlik Bilgilerini Oluşturma**
-    * APIs & Services menüsünden Credentials seçeneğine tıklayın.
-    * Create Credentials butonuna tıklayın ve OAuth client ID seçeneğini seçin.
-    * Eğer OAuth onay ekranını henüz yapılandırmadıysanız, Configure consent screen butonuna tıklayın. Aşağıdaki adımları izleyin:
+    
+  3.**OAuth 2,0 Yetkilendirmesi İçin İstemci Kimlik Bilgilerini Oluşturma**
+  * APIs & Services menüsünden Credentials seçeneğine tıklayın.
+  * Create Credentials butonuna tıklayın ve OAuth client ID seçeneğini seçin.
+  * Eğer OAuth onay ekranını henüz yapılandırmadıysanız, Configure consent screen butonuna tıklayın. Aşağıdaki adımları izleyin:
        * User Type olarak External seçeneğini seçin ve Create butonuna tıklayın.
        * App Information kısmında, uygulamanıza bir ad verin (örneğin "Google Sheets Integration").
        * User Support Email alanında destek e-posta adresini seçin.
        * Authorized Domains kısmına localhost ekleyin.
        * Diğer gerekli bilgileri doldurun ve Save and Continue butonuna tıklayın.
        * Scopes ve Test Users adımlarını atlayarak Summary ekranına ulaşın ve Back to Dashboard butonuna tıklayın.
-    * Şimdi Create Credentials butonuna tekrar tıklayın ve OAuth client ID seçeneğini seçin.
-    * Application type olarak Desktop app seçeneğini seçin ve uygulamanız için bir ad girin (örneğin "Desktop Client").
-    * Create butonuna tıklayın.
-    * Oluşturulan istemci kimliğini ve istemci gizli anahtarını içeren bir JSON dosyası indirilecektir. Bu dosyanın adını credentials.json olarak değiştirin ve projenizin kök dizinine yerleştirin.
+  * Şimdi Create Credentials butonuna tekrar tıklayın ve OAuth client ID seçeneğini seçin.
+  * Application type olarak Desktop app seçeneğini seçin ve uygulamanız için bir ad girin (örneğin "Desktop Client").
+  * Create butonuna tıklayın.
+  * Oluşturulan istemci kimliğini ve istemci gizli anahtarını içeren bir JSON dosyası indirilecektir. Bu dosyanın adını credentials.json olarak değiştirin ve projenizin kök dizinine yerleştirin.
 
 5. **appsettings.json Dosyasının Düzenlenmesi**
-   * Projenizin kök dizinindeki appsettings.json dosyasını bir metin editörü ile açın.
-   * Google Sheets API Kimlik Bilgileri: İndirdiğiniz credentials.json dosyasındaki client_id ve client_secret değerlerini appsettings.json dosyasındaki ilgili bölümlere yapıştırın.
-   * Veritabanı Bağlantı Dizesi: Kendi veritabanınız için geçerli bağlantı dizesini ConnectionStrings bölümüne ekleyin. Örneğin:
- ```sh
+  * Projenizin kök dizinindeki appsettings.json dosyasını bir metin editörü ile açın.
+  * Google Sheets API Kimlik Bilgileri: İndirdiğiniz credentials.json dosyasındaki client_id ve client_secret değerlerini appsettings.json dosyasındaki ilgili bölümlere yapıştırın.
+  * Veritabanı Bağlantı Dizesi: Kendi veritabanınız için geçerli bağlantı dizesini ConnectionStrings bölümüne ekleyin. Örneğin:
+```sh
  {
     "ConnectionStrings": {
       "DefaultConnection": "Server=yourServerName;Database=YourDB;User Id=UserName;Password=password;"
@@ -87,7 +89,7 @@
 
 
 
-**Not:** Bu README.md dosyası, projenizin genel bir bakışını sunar. Daha detaylı bilgi için kodları inceleyebilirsiniz.
+**Not:** Bu README.md dosyası, projenizin genel bir bakışını sunar. Daha detaylı bilgi için kodları inceleyebilirsiniz..
 
 **GitHub Deposu:** [https://github.com/Mertalkann/SheetDBManager)
 
