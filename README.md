@@ -1,4 +1,3 @@
-## **Elbette, README.md dosyası için formatlanmış bir versiyonunu aşağıda bulabilirsiniz:**
 
 ### **DataSyncManager**
 <p align="center">
