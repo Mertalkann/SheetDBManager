@@ -59,25 +59,3 @@
 
 **[Projenizin ekran görüntülerini veya GIF'lerini buraya ekleyebilirsiniz]**
 
----
-
-**Bu format, GitHub'da yaygın olarak kullanılan Markdown dilini kullanır ve projenizin anlaşılmasını kolaylaştırır.**
-
-* **Başlıklar:** `#`, `##`, `###` gibi işaretlerle başlıklar oluşturulur.
-* **Listeler:** `-` veya `*` ile liste öğeleri oluşturulur.
-* **Kod Blokları:** Üç adet backtick (```) arasında kod parçacıkları yerleştirilir.
-* **Bağlantılar:** `[Metin](https://link)` şeklinde bağlantılar oluşturulur.
-* **Görseller:** `![Alternatif metin](görsel.jpg)` şeklinde görseller eklenir.
-
-**Bu README.md dosyasını projenizin kök dizinine kaydederek GitHub'a yükleyebilirsiniz.**
-
-**İsteğe bağlı olarak aşağıdaki bölümleri de ekleyebilirsiniz:**
-
-* **Teknolojiler:** Projede kullanılan teknolojilerin listesi
-* **Katkıda Bulunma:** Projeye nasıl katkıda bulunabileceği
-* **Lisans:** Projenin lisansı
-* **Sıkça Sorulan Sorular**
-
-**Bu düzenlemelerle projenizin daha profesyonel ve anlaşılır bir görünüm kazanmasını sağlayabilirsiniz.**
-
-**Başka sorularınız olursa çekinmeden sorabilirsiniz.**
